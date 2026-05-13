@@ -1,7 +1,7 @@
 [[main]]
     identifier = "home"
     name       = "Home"
-    url        = "/"
+    url        = "/en/"
     weight     = 1
     [main.params]
         icon = "home"
@@ -9,7 +9,7 @@
 [[main]]
     identifier = "archives"
     name       = "Archives"
-    url        = "/archives/"
+    url        = "/en/archives/"
     weight     = 2
     [main.params]
         icon = "archives"
@@ -17,10 +17,18 @@
 [[main]]
     identifier = "search"
     name       = "Search"
-    url        = "/search/"
+    url        = "/en/search/"
     weight     = 3
     [main.params]
         icon = "search"
+
+[[main]]
+    identifier = "about"
+    name       = "about"
+    url        = "/en/about/"
+    weight     = 4
+    [main.params]
+        icon = "user"      
 
 [[social]]
     identifier = "github"
