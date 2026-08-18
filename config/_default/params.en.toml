@@ -15,7 +15,7 @@ SortBy              = "default"
     lastUpdated = ":date_medium"
 
 [sidebar]
-    emoji    = "🚀"
+    emoji    = ""
     subtitle = "Welcome to Lao Gong’s Blog"
     avatar   = "img/avatar.jpg"
 
