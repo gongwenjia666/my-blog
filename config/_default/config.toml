@@ -1,7 +1,7 @@
 # Change baseurl before deploy
 baseurl      = "https://blog.gongwenjia.dpdns.org/"
 languageCode = "zh-cn"
-title        = "Hugo Theme Stack Starter Template"
+title        = "欢迎来到老宫的博客"
 
 # Set default language
 defaultContentLanguage = "zh"
