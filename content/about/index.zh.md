@@ -10,9 +10,9 @@ section_titles:
     timeline: "⏳ 建站历程"
 
 profile:
-    name: "你的名字"
-    role: "开发者 / 博主"
-    bio: "一个热爱技术的开发者，分享知识和经验。"
+    name: "老宫"
+    role: "设计师 / 博主"
+    bio: "一个热爱技术的设计师，分享知识和经验。"
     tags: ["Hugo", "Web开发", "开源"]
 
 links:
@@ -27,14 +27,14 @@ links:
 
 about_me:
   - label: "职业"
-    text: "开发者"
+    text: "动画设计师"
     icon: "briefcase"
   - label: "爱好"
-    text: "编程 / 阅读 / 旅行"
+    text: "电影 / 美食 / 旅行"
     icon: "bike"
   - label: "邮箱"
-    text: "your@email.com"
-    link: "mailto:your@email.com"
+    text: "gongwenjia@foxmail.com"
+    link: "mailto:gongwenjia@foxmail.com"
     icon: "mail"
 
 about_site:
