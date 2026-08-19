@@ -11,6 +11,8 @@ tags:
     - Getting Started
     - Deployment
     - GitHub Pages
+build:
+  list: never
 ---
 
 ## Welcome to Hugo Theme Stack Starter

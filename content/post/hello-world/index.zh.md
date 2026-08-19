@@ -11,6 +11,8 @@ tags:
     - 入门
     - 部署
     - GitHub Pages
+build:
+  list: never
 ---
 
 ## 欢迎使用 Hugo Theme Stack Starter

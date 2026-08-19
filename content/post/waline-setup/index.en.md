@@ -11,6 +11,8 @@ tags:
     - Waline
     - Comments
     - Vercel
+build:
+  list: never
 ---
 
 [Waline](https://waline.js.org/en/) is a safe and concise comment system that supports Markdown, offers free deployment, and allows users to comment without registering.

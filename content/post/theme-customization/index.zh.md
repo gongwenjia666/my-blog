@@ -10,6 +10,8 @@ tags:
     - Hugo
     - 主题美化
     - 定制
+build:
+  list: never
 ---
 
 本模板基于 [Hugo Theme Stack v4](https://github.com/CaiJimmy/hugo-theme-stack) 开发，在保持原有功能完整性的基础上，进行了一系列视觉和交互上的美化。

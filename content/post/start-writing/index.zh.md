@@ -11,6 +11,8 @@ tags:
     - Markdown
     - 写作
     - 多语言
+build:
+  list: never
 ---
 
 ## 创建第一篇文章

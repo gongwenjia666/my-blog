@@ -10,6 +10,8 @@ tags:
     - Hugo
     - Customization
     - Theme
+build:
+  list: never
 ---
 
 This template is developed based on [Hugo Theme Stack v4](https://github.com/CaiJimmy/hugo-theme-stack). While maintaining the integrity of the original features, a series of visual and interactive enhancements have been made.

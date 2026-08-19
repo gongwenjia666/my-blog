@@ -9,6 +9,8 @@ tags:
     - Hugo
     - SCSS
     - Styling
+build:
+  list: never
 ---
 
 The styling system of this template is based on SCSS. All custom styles are located in the `assets/scss/` directory, so you **do not need to modify the original theme files**.

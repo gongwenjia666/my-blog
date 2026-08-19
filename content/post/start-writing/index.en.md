@@ -11,6 +11,8 @@ tags:
     - Markdown
     - Writing
     - Multilingual
+build:
+  list: never
 ---
 
 ## Create Your First Post

@@ -8,6 +8,8 @@ categories:
 tags:
     - Hugo
     - Shortcodes
+build:
+  list: never
 ---
 
 Hugo Shortcodes 是在 Markdown 中嵌入特殊组件的方式。本文展示所有自定义 Shortcode 的**实际渲染效果**。

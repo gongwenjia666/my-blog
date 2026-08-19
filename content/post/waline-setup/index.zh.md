@@ -11,6 +11,8 @@ tags:
     - Waline
     - 评论
     - Vercel
+build:
+  list: never
 ---
 
 [Waline](https://waline.js.org/) 是一款安全、简洁的评论系统，支持 Markdown，免费部署，无需用户注册即可评论。

@@ -8,6 +8,8 @@ categories:
 tags:
     - Hugo
     - Shortcodes
+build:
+  list: never
 ---
 
 Hugo Shortcodes are a way to embed special components within Markdown. This article demonstrates the **actual rendering effects** of all custom Shortcodes included in this template.

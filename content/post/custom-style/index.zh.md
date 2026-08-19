@@ -9,6 +9,8 @@ tags:
     - Hugo
     - SCSS
     - 样式定制
+build:
+  list: never
 ---
 
 本模板的样式系统基于 SCSS，所有自定义样式都在 `assets/scss/` 目录下，**不需要修改主题源文件**。
