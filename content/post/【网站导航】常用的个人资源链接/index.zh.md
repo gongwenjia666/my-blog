@@ -19,6 +19,7 @@ sitemap:
 
 ## 💻 ELEX
 - [工作排期](https://elex-work.feishu.cn/wiki/VE8SwPCtZiYv8mkkg01cqegqnch) — 2026工作排期。
+- [美术周报](https://elex-work.feishu.cn/wiki/UWY5wDTUkiiubekKa0QcnlTLnof) —  2026PHOENIX美术周报
 - [LDS英雄 士兵 怪物动作需求](https://elex-work.feishu.cn/wiki/IFwEweq4cikV8ak7oincfKxZnLa?sheet=YeRqKM)
 - [LDS美术资源提交表](https://elex-work.feishu.cn/base/ODl1bLZHsaU9VDsdBKCcQ4CBn1d?table=tblD6yh9H7Qlk7Kw&view=vewtGeFTlE)
 - [‍‌​​‌​​﻿​﻿﻿​​‬‌​​​‍‍⁠​​‌​‬​​﻿​​​​⁠​﻿​‬​‍​​​​‬​​​‬﻿TWD美术资源提交](https://elex-work.feishu.cn/base/ODl1bLZHsaU9VDsdBKCcQ4CBn1d?table=tbldgtkfYER8wdYw&view=vewTyqKJIH)
