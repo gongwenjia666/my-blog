@@ -28,7 +28,7 @@ sitemap:
 - [AI 抠图](http://zhongtai-ai.elexapp.com/api/ai-rembg/ui)— AI自动去除背景。
 - [AI 游戏美术设计入口](http://10.1.4.130:8080/)— 智明星通AI系统。
 - [智明星通INFINITE-AI](https://aigc.elex-tech.com/#/home/)— 智明星通AI系统，可视化工作流。
-- [TWD城堡收入](https://elex-work.feishu.cn/sheets/WBQfsBnGvhNyEctLsKucSo0qngd?sheet=R88Um1/)— 智明星通TWD城堡皮肤收入。
+- [TWD城堡收入](https://elex-work.feishu.cn/wiki/AfJkwwF3iiDZFaktHJKcyxMAn8e?sheet=4162c0)— 智明星通TWD城堡皮肤收入。
 
 
 ---
